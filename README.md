@@ -18,7 +18,7 @@
 
 ## ☎️ Contact Me
 
-- `<img height="10" src="https://api.iconify.design/fxemoji:email.svg">` [Email](mailto:1804627133@qq.com)
+- <img height="10" src="https://api.iconify.design/fxemoji:email.svg"> [Email](mailto:1804627133@qq.com)
 - VX: q1804627133   (备注GitHub)
 
 <img src="./assets/wechat.jpg" width="200" style="margin-bottom: 30px"/>
